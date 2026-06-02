@@ -1,1 +1,3 @@
 # Swiggy-Bangalore-Outlet-Analysis
+The notebook is analyzing restaurant data (Swiggy) from Bangalore, with columns: Shop_Name, Cuisine, Location, Rating, Cost_for_Two. The analysis includes data cleaning, visualizations, and insights about ratings and costs for different locations (Koramangala, HSR, BTM). The user wants a README that is unique (not generic) and small (concise). I need to extract the key aspects: dataset, analysis steps, visualizations, conclusions, and present them in a brief, clear README format. I should not include the entire code but summarize. The README should be unique to this specific analysis. I'll produce a markdown document.
+
